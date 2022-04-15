@@ -1,0 +1,44 @@
+{
+  "0":{
+    "id" : "1",
+    "name" : "Renault ",
+    "driver" : "",
+    "state" : "BASE"
+  },
+  "1": {
+    "id" : "2",
+    "name" : "Volvo",
+    "driver" : "",
+    "state" : "ROUTE"
+  },
+  "2": {
+    "id" : "3",
+    "name" : "CHEVROLET",
+    "driver" : "",
+    "state" : "BASE"
+  },
+  "3": {
+    "id" : "4",
+    "name" : "FORD",
+    "driver" : "",
+    "state" : "REPAIR"
+  },
+  "4": {
+    "id" : "5",
+    "name" : "BENZ",
+    "driver" : "",
+    "state" : "BASE"
+  },
+  "5": {
+    "id" : "6",
+    "name" : "BMW",
+    "driver" : "",
+    "state" : "ROUTE"
+  },
+  "6": {
+    "id" : "7",
+    "name" : "KIA",
+    "driver" : "",
+    "state" : "ROUTE"
+  }
+}
